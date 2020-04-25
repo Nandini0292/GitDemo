@@ -1,0 +1,2 @@
+https://login-itg.external.hp.com/as/token.oauth2?grant_type=client_credentials&token=tqU51eLhLR3178KJ5gBcZAg5zgHf
+https://hx9ekpvvbi.execute-api.us-east-1.amazonaws.com/KaaS-ITG/v2/search?resultStart=0&languageCode=en&resultLimit=1000&q=*&store=udp-content-default&clientId=SDS&contentTypes=Repair or Replace
